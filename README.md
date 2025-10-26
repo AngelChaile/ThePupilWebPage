@@ -1,6 +1,6 @@
 # The Pupil - Juego Educativo RPG 2D
 
-![The Pupil Banner](assets/images/dTecnologias.jpj)
+![The Pupil Banner](assets/images/dTecnologias.jpg)
 
 ## 🎮 Descripción del Proyecto
 
@@ -50,10 +50,10 @@ El juego está meticulosamente diseñado para replicar fielmente la estructura r
 - **Procesador:** 2.0 GHz o superior
 - **Memoria:** 4 GB RAM
 - **Tarjeta Gráfica:** Compatible con DirectX 9
-- **Almacenamiento:** 1gb de espacio disponible
+- **Almacenamiento:** 150mb de espacio disponible
 
 ### Instrucciones de Instalación
-1. **Descarga el archivo comprimido** desde la sección de [Releases](https://github.com/tuusuario/the-pupil/releases)
+1. **Descarga el archivo comprimido** desde la sección de [Releases](https://angelchaile.github.io/ThePupilWebPage/)
 2. **Extrae los archivos** usando WinRAR, 7-Zip o el extractor de Windows
 3. **Ejecuta el juego** haciendo doble clic en `ThePupil.exe`
 4. **¡Disfruta de la aventura!**
@@ -84,7 +84,7 @@ Este proyecto fue desarrollado por estudiantes del **Instituto Superior de Forma
 ## 🌐 Página Web
 
 Visita nuestra página web para más información:
-[Enlace a la página web del proyecto]
+[https://angelchaile.github.io/ThePupilWebPage/]
 
 ## 📞 Contacto y Redes Sociales
 
