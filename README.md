@@ -1,6 +1,6 @@
 # The Pupil - Juego Educativo RPG 2D
 
-![The Pupil Banner](assets/images/desafios.png)
+![The Pupil Banner](assets/images/dTecnologias.jpj)
 
 ## 🎮 Descripción del Proyecto
 
